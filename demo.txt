@@ -19,3 +19,5 @@ This is my second modification! v3
 This is my third modification! v4
 
 MASTER MOD
+HOT-FIX MOD
+
